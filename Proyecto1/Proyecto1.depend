@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1562171738 source:c:\users\aleja\desktop\alejandro\201700801\proyecto1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<string>
+	<windows.h>
+	<vector>
+	<cstdlib>
+	<time.h>
+
