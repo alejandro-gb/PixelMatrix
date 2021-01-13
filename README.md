@@ -5,8 +5,14 @@ En este proyecto se utilizan estructuras de datos y una matriz ortogonal donde c
 
 Proyecto en C++ donde se usan arboles, matrices y listas
 
+##### Menu principal
+![menu](/menu.png)
+
+##### Reportes
+![reportes](/reportes.png)
+
 ##### Matriz ortogonal
 ![MATRIZ](/EJEMPLO1.JPG)
 
 ##### Ejemplo de un resultado final
-![MATRIZ](/EJEMPLO2.JPG)
+![ejemplo](/EJEMPLO2.JPG)
